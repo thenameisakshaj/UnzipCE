@@ -1,0 +1,14 @@
+Assistant checkpoint: Added Trial button to Python course
+
+Assistant generated file changes:
+- client/src/components/course-details-dialog.tsx: Add Trial button to Python course
+
+---
+
+User prompt:
+
+Do this change in the "Introduction to Programming with Python
+" course only
+Add a "Trial" button in the left side of the "Enroll Now" button. And after the user will click on it. It will play the video that i have uploaded to you.
+
+link: https://www.youtube.com/watch?v=QoIRX37VZpo&pp=ygUmaW50cm8gdG8gcHl0aG9uIHNob3J0IHZpZGVvIG9mIDIgbWlucyA%3D
